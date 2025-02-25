@@ -1,1 +1,4 @@
-The **CSV Processing Chatbot** is a web-based tool that allows users to upload CSV files and interact with their data through a chatbot interface. It provides an overview of the dataset, highlighting key details like column names, missing values, and basic statistics. Users can perform various data operations such as filtering entries, calculating averages, and handling missing values efficiently. Designed to simplify data analysis and preprocessing, this chatbot makes data handling accessible even to those with minimal technical expertise. 🚀
+The **CSV Processing Chatbot** is a web-based tool that allows users to upload CSV files and interact with their data through a chatbot interface.
+It provides an overview of the dataset, highlighting key details like column names, missing values, and basic statistics.
+Users can perform various data operations such as filtering entries, calculating averages, and handling missing values efficiently.
+Designed to simplify data analysis and preprocessing, this chatbot makes data handling accessible even to those with minimal technical expertise. 🚀
